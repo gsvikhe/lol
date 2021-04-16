@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/test/ATM_Impl.cpp.o CMakeFiles/main.dir/test/AccountTest.cpp.o CMakeFiles/main.dir/test/BankDatabaseTest.cpp.o CMakeFiles/main.dir/test/CashDispenserTest.cpp.o  -o main  -Wl,-Bstatic -lgtest libATM.a -Wl,-Bdynamic -lpthread 

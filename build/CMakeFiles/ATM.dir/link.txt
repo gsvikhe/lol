@@ -1,0 +1,2 @@
+/usr/bin/ar qc libATM.a  CMakeFiles/ATM.dir/src/Account.cpp.o CMakeFiles/ATM.dir/src/ATM.cpp.o CMakeFiles/ATM.dir/src/BalanceInquiry.cpp.o CMakeFiles/ATM.dir/src/BankDatabase.cpp.o CMakeFiles/ATM.dir/src/CashDispenser.cpp.o CMakeFiles/ATM.dir/src/Deposit.cpp.o CMakeFiles/ATM.dir/src/DepositSlot.cpp.o CMakeFiles/ATM.dir/src/Keypad.cpp.o CMakeFiles/ATM.dir/src/Screen.cpp.o CMakeFiles/ATM.dir/src/Transaction.cpp.o CMakeFiles/ATM.dir/src/Withdrawal.cpp.o
+/usr/bin/ranlib libATM.a

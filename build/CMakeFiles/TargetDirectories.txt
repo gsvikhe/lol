@@ -1,0 +1,5 @@
+/home/slartibartfast/Desktop/ATM/build/CMakeFiles/rebuild_cache.dir
+/home/slartibartfast/Desktop/ATM/build/CMakeFiles/test.dir
+/home/slartibartfast/Desktop/ATM/build/CMakeFiles/ATM.dir
+/home/slartibartfast/Desktop/ATM/build/CMakeFiles/edit_cache.dir
+/home/slartibartfast/Desktop/ATM/build/CMakeFiles/main.dir
